@@ -3,6 +3,9 @@
     "description": "Learning",
     "type": "learning",
     "license": "MIT",
+    "require": {
+        "php": "8.*"
+    },
     "autoload": {
         "psr-4": {
             "Patterns\\": "patterns/"
@@ -13,5 +16,4 @@
             "name": "Artem Fedorenko"
         }
     ],
-    "require": {}
 }
