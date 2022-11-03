@@ -1,0 +1,17 @@
+{
+    "name": "arttikul/learning",
+    "description": "Learning",
+    "type": "learning",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "patterns/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem Fedorenko"
+        }
+    ],
+    "require": {}
+}
